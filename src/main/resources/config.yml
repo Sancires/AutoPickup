@@ -1,0 +1,6 @@
+config-version-do-not-change: 2
+### This is the configuration file for AutoPickup
+boat-pickup:
+  enabled: true
+minecart-pickup:
+  enabled: true
