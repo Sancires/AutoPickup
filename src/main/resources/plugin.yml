@@ -1,6 +1,6 @@
 name: AutoPickup
 version: ${project.version}
-main: cyou.paul.autopickup.AutoPickup
+main: io.github.sancires.autopickup.AutoPickup
 api-version: 1.16
 prefix: AutoPickup
 authors: [ Sancires ]

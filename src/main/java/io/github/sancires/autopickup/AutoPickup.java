@@ -1,13 +1,11 @@
-package cyou.paul.autopickup;
+package io.github.sancires.autopickup;
 
-import cyou.paul.autopickup.listeners.VehicleListener;
-import cyou.paul.autopickup.util.ConfigValues;
-import cyou.paul.autopickup.util.LogMessages;
+import io.github.sancires.autopickup.listeners.VehicleListener;
+import io.github.sancires.autopickup.util.ConfigValues;
+import io.github.sancires.autopickup.util.LogMessages;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.io.File;
-
-@SuppressWarnings("ResultOfMethodCallIgnored")
 
 public final class AutoPickup extends JavaPlugin {
 

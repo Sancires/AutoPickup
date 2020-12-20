@@ -1,6 +1,6 @@
-package cyou.paul.autopickup.listeners;
+package io.github.sancires.autopickup.listeners;
 
-import cyou.paul.autopickup.AutoPickup;
+import io.github.sancires.autopickup.AutoPickup;
 import org.bukkit.GameMode;
 import org.bukkit.Material;
 import org.bukkit.entity.Boat;

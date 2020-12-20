@@ -1,6 +1,6 @@
-package cyou.paul.autopickup.util;
+package io.github.sancires.autopickup.util;
 
-import cyou.paul.autopickup.AutoPickup;
+import io.github.sancires.autopickup.AutoPickup;
 
 public class ConfigValues {
 
